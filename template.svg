@@ -300,7 +300,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">🔥 I'm a web developer and IM Junior at NTU </text>
-    <text x="15" y="50">🚀 I love grinding hard to learn more and have fun</text>
+    <text x="15" y="50">🚀 Grinding hard to learn more and have fun</text>
   </g>
 
   <!-- typing 4 -->
@@ -324,7 +324,7 @@
   <!-- Info ... -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="395" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">✨ Favorite Tech: React, TypeScript, Python </text>
+    <text x="15" y="27">✨ Favorite Tech: Next.js, TypeScript, Python </text>
     <text x="15" y="50">
       <tspan class="emoji">✉️</tspan> guanmingchiu@gmail.com
     </text>
