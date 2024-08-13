@@ -38,7 +38,7 @@ const emojis = {
 }
 
 // Today's weather
-const locationKey = '315078_PC'
+const locationKey = '315078'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 
 got(url, { prefixUrl: WEATHER_DOMAIN })
